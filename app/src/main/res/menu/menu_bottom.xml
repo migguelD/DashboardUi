@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/ic_menu"
+        android:title="Home"
+        app:cnb_iconColor="@color/colorPrimary"/>
+    <item
+        android:id="@+id/animaciones"
+        android:icon="@drawable/ic_varita_magica"
+        android:title="Widgets"
+        app:cnb_iconColor="@color/colorPrimaryDark"/>
+    <item
+        android:id="@+id/ui"
+        android:icon="@drawable/ic_caja"
+        android:title="Ui"
+        app:cnb_iconColor="@color/colorPrimary" />
+</menu>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/azulFuerte</color>
+    <color name="colorPrimaryDark">@color/azulClaro</color>
+    <color name="colorAccent">@color/rojo</color>
+    <color name="colorFondoGris1">#f9fafd</color>
+<!--
+    https://i.pinimg.com/originals/0f/e1/e9/0fe1e971220dfe09731b69d7694cc145.jpg
+-->
+    <color name="verdeFuerte">#006270</color>
+    <color name="verdeMedio">#009394</color>
+    <color name="verdeClaro">#00E0C7</color>
+    <color name="blanco">#FFFFFF</color>
+
+<!--
+    https://i.pinimg.com/originals/cf/35/1b/cf351b1c94685355fb35868382b15379.jpg
+-->
+    <color name="azulFuerte">#2469D8</color>
+    <color name="azulClaro">#2096F3</color>
+    <color name="rojo">#D7415E</color>
+    <color name="amarillo">#FFDA5F</color>
+    
+    <color name="blue">#2c8ef8</color>
+    <color name="indigo">#727cf5</color>
+    <color name="purple">#6b5eae</color>
+    <color name="pink">#ff679b</color>
+    <color name="red">#fa5c7c</color>
+    <color name="orange">#fd7e14</color>
+    <color name="yellow">#ffbc00</color>
+    <color name="green">#0acf97</color>
+    <color name="teal">#02a8b5</color>
+    <color name="cyan">#39afd1</color>
+    <color name="white">#fff</color>
+    <color name="gray">#98a6ad</color>
+    <color name="grayDark">#343a40</color>
+    <color name="primary">#727cf5</color>
+    <color name="secondary">#6c757d</color>
+    <color name="success">#0acf97</color>
+    <color name="info">#39afd1</color>
+    <color name="warning">#ffbc00</color>
+    <color name="danger">#fa5c7c</color>
+    <color name="light">#eef2f7</color>
+    <color name="dark">#313a46</color>
+
+</resources>

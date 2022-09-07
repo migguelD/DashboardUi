@@ -1,0 +1,38 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+<!--Estilo para cads horizontales-->
+    <style name="tituloCardHorizontal" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/secondary</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textSize">14sp</item>
+        <item name="textAllCaps">true</item>
+    </style>
+    <style name="bodyCardHorizontal" parent="@style/TextAppearance.AppCompat.Display1">
+        <item name="android:textColor">@color/secondary</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:textSize">40sp</item>
+    </style>
+    <style name="tvImgBodyCardHorizontal" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/secondary</item>
+        <item name="android:fontFamily">@font/unicons_line</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:alpha">.5</item>
+    </style>
+    <style name="tvImgFooterCardHorizontal" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:fontFamily">@font/dripicons_v2</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textAlignment">center</item>
+    </style>
+    <style name="tvDescImgFooterCardHorizontal" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+</resources>
